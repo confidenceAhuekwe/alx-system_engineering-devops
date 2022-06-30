@@ -1,0 +1,1 @@
+My README file for the project on 0x03. Shell, init files, variables and expansions.
